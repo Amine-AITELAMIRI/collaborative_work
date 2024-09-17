@@ -5,6 +5,7 @@ import os
 from icalendar import Calendar
 from datetime import datetime, timedelta
 import difflib
+#eeafaefafaefaefa
 
 help_text = """
 *Comment utiliser le bot :*
