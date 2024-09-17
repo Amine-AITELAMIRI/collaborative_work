@@ -1,7 +1,7 @@
 # collaborative_work
 
 <h1 align="center">Hi 👋, I'm Amine AIT EL AMIRI et Pierre</h1>
-<h3 align="center">A passionate developer from Morocco</h3>
+<h3 align="center">A passionate developer from Morocco France</h3>
 
 - 🔭 I’m currently working on **IF110**
 
